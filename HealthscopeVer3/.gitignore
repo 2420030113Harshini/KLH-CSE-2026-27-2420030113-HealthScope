@@ -1,0 +1,29 @@
+# Python environments
+.venv/
+venv/
+env/
+
+# Node dependencies
+node_modules/
+
+# Build files
+dist/
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Secrets
+.env
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
